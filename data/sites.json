@@ -1,0 +1,182 @@
+[
+  {
+    "id": "site-1",
+    "slug": "ashish-creations",
+    "url": "pweb://ashish-creations",
+    "title": "Ashish Tech & Innovations Studio",
+    "tagline": "Personal portfolio, indie web experiments, and modern full-stack projects.",
+    "description": "Welcome to Ashish's official platform hub. Explore private projects, AI experiments, developer tools, and web apps built for the next generation.",
+    "category": "Portfolio & Tech",
+    "author": "Ashish Kumar",
+    "authorEmail": "ashish804452kr@gmail.com",
+    "tags": ["ashish", "portfolio", "developer", "coding", "react", "software"],
+    "theme": "indigo",
+    "isPrivate": true,
+    "views": 248,
+    "likes": 56,
+    "createdAt": "2026-10-20T10:00:00Z",
+    "content": {
+      "heroHeadline": "Building Future-Ready Web Experiences",
+      "heroSubheadline": "Full-stack developer, creator, and builder of the OmniBrowser Private Network.",
+      "about": "Hi, I'm Ashish! I specialize in modern responsive applications, intuitive UI design, and creative software. This website is hosted exclusively on this private browser platform and cannot be found on public Google.",
+      "sections": [
+        {
+          "title": "Featured Creations",
+          "items": [
+            { "name": "OmniBrowser Engine", "desc": "Dual search engine combining Google search grounding with private sandboxed web hosting." },
+            { "name": "CyberPulse Analytics", "desc": "Real-time client telemetry and privacy-preserving insights dashboard." },
+            { "name": "CloudNova Micro-VM", "desc": "Lightweight container runner designed for quick web app execution." }
+          ]
+        },
+        {
+          "title": "Skills & Expertise",
+          "items": [
+            { "name": "Frontend", "desc": "React 19, TypeScript, Tailwind CSS, Motion, Responsive UX/UI" },
+            { "name": "Backend", "desc": "Node.js, Express, REST APIs, Edge Functions, Gemini AI Integration" },
+            { "name": "Data & Cloud", "desc": "Local Database Architecture, Cloud Run, Search Indexing" }
+          ]
+        }
+      ],
+      "contactEmail": "ashish804452kr@gmail.com",
+      "status": "Available for exciting projects"
+    }
+  },
+  {
+    "id": "site-2",
+    "slug": "chai-pe-charcha",
+    "url": "pweb://chai-pe-charcha",
+    "title": "Chai Pe Charcha - Artisan Café & Bistro",
+    "tagline": "Authentic Masala Chai, Gourmet Samosas, and Cozy Creative Workspace.",
+    "description": "A haven for builders, coders, and thinkers. Enjoy handcrafted Kulhad Chai, saffron bun muska, and fast Wi-Fi in our peaceful garden café.",
+    "category": "Food & Cafes",
+    "author": "Kabir & Priya",
+    "tags": ["chai", "cafe", "coffee", "food", "restaurant", "tea", "bistro", "samosa"],
+    "theme": "amber",
+    "isPrivate": true,
+    "views": 185,
+    "likes": 42,
+    "createdAt": "2026-10-22T14:30:00Z",
+    "content": {
+      "heroHeadline": "Warm Chai, Fresh Bakes & Great Conversations",
+      "heroSubheadline": "The community café where developers and artists gather. Hosted exclusively on PrivateWeb.",
+      "about": "Founded in 2024, Chai Pe Charcha is an artisan culinary sanctuary. We source single-estate Assam tea leaves, freshly crush ginger and cardamom, and bake sourdough snacks daily.",
+      "sections": [
+        {
+          "title": "Specialty Chai & Brews",
+          "items": [
+            { "name": "Royal Kulhad Masala Chai", "desc": "Brewed with 7 organic spices and creamy slow-simmered milk in earthen clay pot - ₹45" },
+            { "name": "Kashmiri Kahwa", "desc": "Green tea infused with whole saffron strands, cinnamon, and slivered almonds - ₹75" },
+            { "name": "Cold Filter Kaapi", "desc": "Chilled South Indian decoction with velvety froth and caramelized palm jaggery - ₹85" }
+          ]
+        },
+        {
+          "title": "Fresh Bites",
+          "items": [
+            { "name": "Truffle Cheese Samosa (2 pcs)", "desc": "Crispy golden crust filled with spiced potatoes, herbs, and melted mozzarella - ₹90" },
+            { "name": "Irani Maska Bun with Berry Jam", "desc": "Warm pillowy bun slathered with homemade whipped butter - ₹60" }
+          ]
+        }
+      ],
+      "contactEmail": "hello@chaipecharcha.pweb",
+      "status": "Open Daily: 8:00 AM – 11:30 PM"
+    }
+  },
+  {
+    "id": "site-3",
+    "slug": "aurora-indie-studios",
+    "url": "pweb://aurora-indie-studios",
+    "title": "Aurora Game Studios - Secret Indie Vault",
+    "tagline": "Crafting poetic, pixel-art adventures and immersive ambient games.",
+    "description": "Exclusive sneak peeks, playable WebGL prototypes, and behind-the-scenes concept art for upcoming indie games.",
+    "category": "Gaming & Art",
+    "author": "Nova Labs",
+    "tags": ["games", "gaming", "indie", "pixel art", "rpg", "arcade", "retro"],
+    "theme": "emerald",
+    "isPrivate": true,
+    "views": 312,
+    "likes": 88,
+    "createdAt": "2026-10-24T09:15:00Z",
+    "content": {
+      "heroHeadline": "Games Crafted With Heart & Imagination",
+      "heroSubheadline": "Discover secret prototypes before they hit mainstream gaming stores.",
+      "about": "We are a small collective of artists, sound designers, and programmers building hand-crafted worlds. Our platform-exclusive portal lets you test alpha releases directly in your browser.",
+      "sections": [
+        {
+          "title": "Current Projects in Alpha",
+          "items": [
+            { "name": "Echoes of Lumina", "desc": "A narrative atmospheric puzzle platformer set in an abandoned neon observatory." },
+            { "name": "ChronoDrift 2088", "desc": "Fast-paced synthwave hoverbike racing with procedural city skylines." },
+            { "name": "Whispering Pines", "desc": "Cozy forest mystery RPG with hand-drawn water-color textures." }
+          ]
+        }
+      ],
+      "contactEmail": "dev@auroragames.pweb",
+      "status": "Demo Testing Live on Platform"
+    }
+  },
+  {
+    "id": "site-4",
+    "slug": "code-vault",
+    "url": "pweb://code-vault",
+    "title": "CodeVault: Secret Developer Snippets & Cheatsheets",
+    "tagline": "Handpicked algorithms, system design blueprints, and production-tested tips.",
+    "description": "Curated collection of TypeScript patterns, Tailwind tricks, database optimization hacks, and interview cheat sheets.",
+    "category": "Developer Tools",
+    "author": "TechGuild",
+    "tags": ["code", "developer", "cheatsheet", "typescript", "react", "programming", "algorithms"],
+    "theme": "cyan",
+    "isPrivate": true,
+    "views": 419,
+    "likes": 114,
+    "createdAt": "2026-10-25T11:20:00Z",
+    "content": {
+      "heroHeadline": "The Private Developer Knowledge Base",
+      "heroSubheadline": "High-signal coding snippets without ads, popups, or paywalls.",
+      "about": "CodeVault was created by senior engineers to store battle-tested snippets and mental models for fast recall during production debugging.",
+      "sections": [
+        {
+          "title": "Essential Snippets",
+          "items": [
+            { "name": "Zero-Lag Debounce Hook", "desc": "React hook for responsive search omniboxes without frame drops." },
+            { "name": "Universal API Retry with Jitter", "desc": "Exponential backoff algorithm for resilient cloud services." },
+            { "name": "Memory-Efficient LRU Cache", "desc": "TypeScript LRU cache with O(1) reads and updates." }
+          ]
+        }
+      ],
+      "contactEmail": "maintainer@codevault.pweb",
+      "status": "Updated Weekly"
+    }
+  },
+  {
+    "id": "site-5",
+    "slug": "himalayan-escapes",
+    "url": "pweb://himalayan-escapes",
+    "title": "Himalayan Escapes - Offbeat Trails & Secret Stays",
+    "tagline": "Untouched alpine meadows, eco-homestays, and stargazing camps in Uttarakhand & Himachal.",
+    "description": "Explore secret trails hidden from tourist crowds. Direct bookings with local village hosts, packing checklists, and GPS maps.",
+    "category": "Travel & Nature",
+    "author": "Tenzing Travel Collective",
+    "tags": ["travel", "mountains", "himalayas", "trekking", "homestay", "nature", "vacation"],
+    "theme": "purple",
+    "isPrivate": true,
+    "views": 160,
+    "likes": 39,
+    "createdAt": "2026-10-26T08:00:00Z",
+    "content": {
+      "heroHeadline": "Breathe Alpine Air & Discover Secret Trails",
+      "heroSubheadline": "Curated mountain adventures shared only with our private network members.",
+      "about": "We believe travel should be sustainable and respectful. We partner directly with Himalayan mountain families to bring you uncommercialized journeys.",
+      "sections": [
+        {
+          "title": "Secret Expeditions",
+          "items": [
+            { "name": "Valley of Whispering Pines (Sainj)", "desc": "4-day trek through sacred cedar groves to a hidden glacial tarn at 3,200m." },
+            { "name": "Moonlit Stargazing Camp (Chopta)", "desc": "Zero light pollution camp overlooking Kedarnath peaks with optical telescopes." }
+          ]
+        }
+      ],
+      "contactEmail": "trails@himalayanescapes.pweb",
+      "status": "Autumn & Winter Expeditions Open"
+    }
+  }
+]
